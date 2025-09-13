@@ -1,0 +1,13 @@
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.image-section>.hello {
+    width: 1200px
+}
+
+.image-section>.hello img {
+    width: 106%;
+    height: 100%;
+}
